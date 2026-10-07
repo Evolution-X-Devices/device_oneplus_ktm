@@ -10,16 +10,22 @@
     "remote": "github-non-los"
   },
   {
-    "repository": "kernel_oneplus_sm8750",
-    "target_path": "kernel/oneplus/sm8750"
+    "repository": "LineageOS/android_kernel_oneplus_sm8750",
+    "target_path": "kernel/oneplus/sm8750",
+    "branch": "lineage-24.0",
+    "remote": "github-non-los"
   },
   {
-    "repository": "kernel_oneplus_sm8750-devicetrees",
-    "target_path": "kernel/oneplus/sm8750-devicetrees"
+    "repository": "LineageOS/android_kernel_oneplus_sm8750-devicetrees",
+    "target_path": "kernel/oneplus/sm8750-devicetrees",
+    "branch": "lineage-24.0",
+    "remote": "github-non-los"
   },
   {
-    "repository": "kernel_oneplus_sm8750-modules",
-    "target_path": "kernel/oneplus/sm8750-modules"
+    "repository": "Ace6-Development/android_kernel_oneplus_sm8750-modules",
+    "target_path": "kernel/oneplus/sm8750-modules",
+    "branch": "lineage-24.0",
+    "remote": "github-non-los"
   },
   {
     "repository": "vendor_oneplus_ktm",
